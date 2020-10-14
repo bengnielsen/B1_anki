@@ -1,0 +1,1778 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "98ceed3e-0e26-11eb-a28b-acbc32a46275",
+    "deck_config_uuid": "98cf3208-0e26-11eb-a28b-acbc32a46275",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "98cf3208-0e26-11eb-a28b-acbc32a46275",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 3000,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "cff90287963b4a22ab6f2353520dc119-ao-1-A.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-1-Q.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-2-A.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-2-Q.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-3-A.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-3-Q.svg",
+        "cff90287963b4a22ab6f2353520dc119-ao-O.svg",
+        "paste-f62065e7a831a720c9f403f806f997a2ff2fb466.jpg",
+        "quizlet-.-NF-aYn0Am59GaXcL2rmg.png",
+        "quizlet-.BNpgJbVrM1pUXcYaGya8A.png",
+        "quizlet-.N1.I9BFFg9cwey2wX8B4g.png",
+        "quizlet-.Xd3VssPGXY-BDTM9BpUIA.png",
+        "quizlet-1ZZTahgw-JShn8oiXhDzTA.png",
+        "quizlet-1hI2YFXvidgX1vVArsgRTA.png",
+        "quizlet-2p8oHjmYcBVS6klGlF0TKg.png",
+        "quizlet-3zzhzUpJEIcUU3CLCBE43g.png",
+        "quizlet-4HmMW9Z-sBVLJXNiFA9FVw.png",
+        "quizlet-4ej-wBEwkKJRRALvgmshmg.png",
+        "quizlet-5Dm7dpa7KyqSTkETP8KdCg.png",
+        "quizlet-5sPY6LYOA9msbFoYUAX81g.png",
+        "quizlet-6hJ-2pNyWeH8zW4Rm4-5eg.png",
+        "quizlet-7YMY8eRJ5mVHiO-WwDvkvA.png",
+        "quizlet-967uQfxBhc-vz.tmd0awoA.png",
+        "quizlet-9SpViWmjzlJD8SRqnGi9Ww.png",
+        "quizlet-A7czFryWu9H12AeIF3v4vQ.png",
+        "quizlet-BV8iqe7tZVzl-207PLPhug.png",
+        "quizlet-C2HN0J6AVVdommvwhQmBrA.png",
+        "quizlet-Cvma5zv-D2u5PHk-pxDfnA.png",
+        "quizlet-DbIn53Zepx1ZFYaFM0oR4g.png",
+        "quizlet-E.SbRTNtkF7yJuWLFbOUnQ.png",
+        "quizlet-EDb9cNhaNpSYwj31DUD2lg.png",
+        "quizlet-F6EaFL6Y0TvX7oGR4B4N.g.png",
+        "quizlet-FjGK0BWPidLCnCj5j9AyVg.png",
+        "quizlet-GE5LJr.G4C1S7wnStQAESQ.png",
+        "quizlet-GaIndDp53N6qn45WnAM9LA.png",
+        "quizlet-Iwwh3XVLZc2HkjHBOa9jPQ.png",
+        "quizlet-K2y-OQ8BYTPeORMFvD6vsg.png",
+        "quizlet-Lmr6Yhe0QocDmYcpbZg9Mg.png",
+        "quizlet-LqEYrYP93hkGEzOBscWthA.png",
+        "quizlet-OT5d0v-fANSxsHHavOQBHQ.png",
+        "quizlet-PWOT5bdRkj6uJZ8nkLpk8Q.png",
+        "quizlet-RB2QP3MMy2I.bwIRHQZ5Ww.png",
+        "quizlet-RdIfsnjxTifwr3HaOdsNQw.png",
+        "quizlet-TAkNdeaEmcQCE5oqxfl20Q.png",
+        "quizlet-Tb8UBYCO-eQYLHD8Ot.yLw.png",
+        "quizlet-UnIOskQQbgsr1254wE5DXA.png",
+        "quizlet-WWYGduFMwRWUJ-UsB4pDkA.png",
+        "quizlet-WpxbSqd7DT.L46Gr3VtAdA.png",
+        "quizlet-X2-HHgAn76P7DGhVGu9vhw.png",
+        "quizlet-XlVgjy.eGuN3IpJX1zJrsw.png",
+        "quizlet-Y6R4dWJzP1m8YPUhaQZ7tw.png",
+        "quizlet-YuUw3QeR1BbYVD3r01VXbA.png",
+        "quizlet-ZoLcIsnJpPqccoA3oroCjQ.png",
+        "quizlet-aMG-CGuaMSvctM2X1j4T8g.png",
+        "quizlet-aOD.QrCx7fR3Tlldktllqw.png",
+        "quizlet-aPliQ9-lQ9i6feVppVn4Cw.png",
+        "quizlet-apb8IeTS7HeiqABcYn2BxA.png",
+        "quizlet-apg-RUMlKhWXiDFvORPbQQ.png",
+        "quizlet-b5ILHiKpuijap6iXlAa1Bg.png",
+        "quizlet-bPs9fOhDwlh.4bsychzcGQ.png",
+        "quizlet-c3-nT4VjcG2HGA1tn59kyQ.png",
+        "quizlet-caX2nZ-F6YOwiFTctfkldg.png",
+        "quizlet-ektmv5mC.oMQN3AnzFCWmA.png",
+        "quizlet-esapzv.LcRwAvCr2uN79Ow.png",
+        "quizlet-g69cQM2eMjBC8Z8Zd-9RhQ.png",
+        "quizlet-gc8UG2daezNA8z37lhVl5g.png",
+        "quizlet-h6p0SM13XSG-OGBeX5iazA.png",
+        "quizlet-hL3sRngkKRmEEyxEK9oGqw.png",
+        "quizlet-hmhfVB2MD8RwDUv2QvTeOg.png",
+        "quizlet-iwDAUK-ZGlZccWoa06IqKg.png",
+        "quizlet-j1MMs5-XVxZc-f8DQRQf3Q.png",
+        "quizlet-l6rD1ojCSoxAamp-vmKYNA.png",
+        "quizlet-nLgPtPEuzmfScpkLEFaaXg.png",
+        "quizlet-nRdR4v6FPHZFzAQEwTOQwQ.png",
+        "quizlet-oHyy.x-g1yJ4XjJpWXhNqg.png",
+        "quizlet-oNUvsXZcoGcq-N-wVAa.AA.png",
+        "quizlet-oYonrHBBJEWllreyMQWa3A.png",
+        "quizlet-ooi6kj0ftqV1S5DDZkNsSA.png",
+        "quizlet-qC2908lM4eWD1JOCrxkgpg.png",
+        "quizlet-qTmQock1LOb3GAQkk.jcpw.png",
+        "quizlet-sljji5CKT7xyjqUjHh.Gtg.png",
+        "quizlet-tgnHrp6b8Ubh7pst4Eu6IQ.png",
+        "quizlet-urdRxgpQsz.FvRfBhFiQ3Q.png",
+        "quizlet-vSA7BnB2KyyeOfYyLmhibg.png",
+        "quizlet-vTxBwc69XUS312go4pXMEQ.png",
+        "quizlet-vY-NZUUZv0SETFWFADwnow.png",
+        "quizlet-wCi8nI.8cFVN-vOHbLSu2Q.png",
+        "quizlet-wW1-eBZslc.7RavYWQ.pAg.png",
+        "quizlet-waJDM4MZDEygohJjWkSfHg.png",
+        "quizlet-xltuBAYZcCDhWzBdbrU0XQ.png",
+        "quizlet-xqmuJZV5bKjoqzQj5e2E3w.png",
+        "quizlet-xwPsGT.Mr-xCHRSRcHvOTA.png",
+        "quizlet-yJRujm7IzStCIZGfPB8gyA.png"
+    ],
+    "name": "Histologi Modul 1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "FrontText",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "FrontAudio",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "BackText",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "BackAudio",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic Quizlet Extended",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        5
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Bindevæv",
+                "Fedt"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontText}}\n<hr id=answer>\n{{BackText}}\n<br><br>\n{{Image}}\n<br><br>\n{{BackAudio}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Normal",
+                    "ord": 0,
+                    "qfmt": "{{FrontText}}\n<br><br>\n{{FrontAudio}}"
+                },
+                {
+                    "afmt": "{{BackText}}\n<hr id=answer>\n{{FrontText}}\n<br><br>\n{{FrontAudio}}\n{{Image}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{BackText}}\n<br><br>\n{{BackAudio}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "98d47b1e-0e26-11eb-a28b-acbc32a46275",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENLAGET PLADEEPITHEL.<br>Hjerte.<br>Farvning: Fosforwolframsyre- hæmatoxylin.<br>- Enlaget pladeepithel (endothel)<br>- Gulfarvede erythrocytter.",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-EDb9cNhaNpSYwj31DUD2lg.png\"></div>",
+                ""
+            ],
+            "guid": "fNQ/@c*Li<",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENLAGET CYLINDEREPITHEL. <br>Jejunum (del af tyktarmen).<br>- Cylinderepithel<br>- Mikrovili<br>- Bægerceller. <br>Farvning: HE",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-.N1.I9BFFg9cwey2wX8B4g.png\"></div>",
+                ""
+            ],
+            "guid": "ev_KB7nHb5",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PSEUDOLAGDELT CYLINDEREPITHEL. <br>Trachea (luftrøret).<br>- Pseudolagdelte epithel<br>- Bægerceller<br>- Kinocillier<br>Farvning: HE",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-aPliQ9-lQ9i6feVppVn4Cw.png\"></div>",
+                ""
+            ],
+            "guid": "M/5+PY|gFX",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENLAGET KUBISK EPITHEL.<br>Øje.<br>- Linseceller<br>- Linsekapselen<br>- Enlaget kubisk epithel<br>Farvning: HE",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-2p8oHjmYcBVS6klGlF0TKg.png\"></div>",
+                ""
+            ],
+            "guid": "h_DR+=Q4_N",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENLAGET KUBISK EPITHEL.<br>Gl. Thyroidea (skjoldbruskkirtelen).<br>Farvning: HE<br>- Enlaget kubisk epithel",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-GE5LJr.G4C1S7wnStQAESQ.png\"></div>",
+                ""
+            ],
+            "guid": "AFAU#Bfd.n",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "FLERLAGET PLADEEPITHEL, UFORHORNET.<br>Øje.<br>Farvning: HE<br>- Kubisk celle<br>- Polyhedral celle<br>- Flad celle",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-xwPsGT.Mr-xCHRSRcHvOTA.png\"></div>",
+                ""
+            ],
+            "guid": "m_MhV}p<l.",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "FLERLAGET PLADEEPITHEL, UFORHORNET.<br>Oesophagus (spiserøret).<br>Farvning: HE<br>- Flade celler<br>- Basalmembran<br>- Kubisk / lave cylindriske celler.<br>- Polyhedrale celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-oNUvsXZcoGcq-N-wVAa.AA.png\"></div>",
+                ""
+            ],
+            "guid": "kl@eaZ<[ow",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "FLERLAGET PLADEEPITHEL, FORHORNET.<br>Cutis (Hud).<br>Farvning: HE<br>- Døde celler<br>- Flade celler<br>- Cylindriske celler<br>- Polyhedrale celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-967uQfxBhc-vz.tmd0awoA.png\"></div>",
+                ""
+            ],
+            "guid": "D_Y>@lHVwU",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "OVERGANGSEPITHEL.<br>Ureter (urinleder).<br>Farvning: HE<br>- Paraplyceller<br>- Polyhedrale celler<br>- Kubiske / cylindriske celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-Y6R4dWJzP1m8YPUhaQZ7tw.png\"></div>",
+                ""
+            ],
+            "guid": "nZ+)UoQG5Z",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, UNICELLULÆR, BÆGERCELLER.<br>Colon (del af tyktarmen).<br>Farvning: HE<br>- Bægercelle (2 stk.)<br>- Kerne",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-OT5d0v-fANSxsHHavOQBHQ.png\"></div>",
+                ""
+            ],
+            "guid": "i@RxJ3wKMs",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SECERNERENDE EPITHELFLADE.<br>Fundus ventriculi (mavesækken).<br>Farvning: HE<br>- Secenerende celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-xqmuJZV5bKjoqzQj5e2E3w.png\"></div>",
+                ""
+            ],
+            "guid": "vMAz:9v|>)",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SECERNERENDE EPITHELFLADE.<br>Fundus ventriculi (mavesækken)<br>Farvning: PAS-Aurantia<br>- Sekret<br>- Kerne<br>- Secenerende celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-nRdR4v6FPHZFzAQEwTOQwQ.png\"></div>",
+                ""
+            ],
+            "guid": "mrc34[~Z@e",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, SERØS.<br>Pancreas.<br>Farvning: HE<br>- Langerhansk ø<br>- serøse celler<br>- Centroacinære celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-caX2nZ-F6YOwiFTctfkldg.png\"></div>",
+                ""
+            ],
+            "guid": "DB(v/Y_He]",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, SERØS.<br>AH15: Gl. Parotis (ørespytkirtelen)<br>Farvning: HE<br>- Serøser celler<br>- Fedtcelle<br>- Bindevæv",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-LqEYrYP93hkGEzOBscWthA.png\"></div>",
+                ""
+            ],
+            "guid": "i06B:Yve.<",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, MUKØS.<br>Radix linguae (bagerste del af tungen)<br>Farvning: HE<br>- Tungemuskulatur<br>- Udførselsgang<br>- Bindevæv<br>- Mukøse celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-TAkNdeaEmcQCE5oqxfl20Q.png\"></div>",
+                ""
+            ],
+            "guid": "jh1ymcR8yE",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, MUKØS.<br>Radix linguae (bagerste del af tungen) Farvning: PAS<br>- Kerne<br>- Cellens cytoplasma<br>- Udførselsgang",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-ektmv5mC.oMQN3AnzFCWmA.png\"></div>",
+                ""
+            ],
+            "guid": "qt^I5/h(?U",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, BLANDET.<br>Farvning: HE<br>- von Ebnersk halvmåne<br>- Blandet endestykke<br>- Serøst endestykke",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-vSA7BnB2KyyeOfYyLmhibg.png\"></div>",
+                ""
+            ],
+            "guid": "GIcAIETk<C",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EXOKRIN KIRTEL, MULTICELLULÆR, SAMMENSAT, BLANDED<br>Farvning: PAS<br>- Serøst endestykke, <br>- Blandet endestykke<br>- von Ebnersk halvmåne.",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-.Xd3VssPGXY-BDTM9BpUIA.png\"></div>",
+                ""
+            ],
+            "guid": "v+$@oiU!o,",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENDOKRIN KIRTEL.<br>Farvning: HE.<br>- Blodkar<br>- Follikel<br>- Enlaget kubisk epithel",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-vTxBwc69XUS312go4pXMEQ.png\"></div>",
+                ""
+            ],
+            "guid": "u2Bu59pct$",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENDOKRIN KIRTEL..<br>Farvning: Chromaffin<br>- Follikel<br>- Bindevæv<br>- Blodkar med erythrocytter",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-hmhfVB2MD8RwDUv2QvTeOg.png\"></div>",
+                ""
+            ],
+            "guid": "Je>iZsbE}4",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HYALIN BRUSK.<br>Farvning: HE.<br>- Perichondrium<br>- Immatur chondrocyt<br>- Matur chondrocyt<br>- Territorial matrix<br>- Isogen gruppe i lakune",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-X2-HHgAn76P7DGhVGu9vhw.png\"></div>",
+                ""
+            ],
+            "guid": "cB<A?()1vU",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HYALIN BRUSK.<br>Farvning: HE.<br>- Immatur chondrocytter<br>- Matur chondrocyt<br>- Territorial matrix<br>- Isogen gruppe i lakune",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-wW1-eBZslc.7RavYWQ.pAg.png\"></div>",
+                ""
+            ],
+            "guid": "K;^Ms1>QrA",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "FIBRØS BRUSK. <br>Farvning: HE.<br>- Chondrocyt<br>- Lakune<br>- Kollagene fibre",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-.BNpgJbVrM1pUXcYaGya8A.png\"></div>",
+                ""
+            ],
+            "guid": "hv{0m{prP|",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ELASTISK BRUSK.<br>Farvning: Verhoeff<br>- Elastin<br>- Chondrocyt<br>- Perichondrium",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-4ej-wBEwkKJRRALvgmshmg.png\"></div>",
+                ""
+            ],
+            "guid": "zNA#C1Hg4W",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "KOMPAKT KNOGLEVÆV <br>Farvning: HE<br>- Canaliculi<br>- Haversk kanal<br>- Cementlinje<br>- Lakuner<br>(Dette er samlet et haversk system)",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-C2HN0J6AVVdommvwhQmBrA.png\"></div>",
+                ""
+            ],
+            "guid": "Erg;dQ55^|",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SPONGIØST KNOGLEVÆV <br>Farvning: HE<br>- Spongiøst knoglevæv<br>- Osteocyt<br>- Cementlinje<br>- Trabekel<br>- Knoglemarv<br>- Erythryocyt<br>- Ledbrusk<br>- Kompakt knoglevæv<br>- Knoglemarv",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-PWOT5bdRkj6uJZ8nkLpk8Q.png\"></div>",
+                ""
+            ],
+            "guid": "pZv3Pqre+Q",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "INTRAMEMBRANØS OSSIFIKATION.<br>Farvning: HE.<br>- Ossifikationssentrum<br>- Osteoid<br>- Osteoblaster<br>- Osteocytter",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-6hJ-2pNyWeH8zW4Rm4-5eg.png\"></div>",
+                ""
+            ],
+            "guid": "GoC:^q(2PD",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENDOCHONDRIAL OSSIFIKATION. <br>Farvning: Toludinblå<br>- Osteoblaster<br>- Nydannet knoglevæv<br>- Forkalket bruskmatrix<br>- Trabekel<br>- Zone 1, 2, 3, 4 og 5.",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-BV8iqe7tZVzl-207PLPhug.png\"></div>",
+                ""
+            ],
+            "guid": "mUABmCe[Ck",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ENDOCHONDRIAL OSSIFIKATION.<br>Farvning: Alcianblå-van Gieson.<br>- Zone 1<br>- Zone 5<br>- Nydannet knoglevæv<br>- Forkalket brusk<br>- Knoglevæv<br>- Osteoblaster<br>- Primær knogletrabekel",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-g69cQM2eMjBC8Z8Zd-9RhQ.png\"></div>",
+                ""
+            ],
+            "guid": "bger!JBZl5",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BLOD.<br>Farvning: May-Grünwald- Giemsa.<br>- Lymfocyt<br>- Eythrocytter<br>- Eosinofil granulocyt<br>- Neutrofil granulocyt",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-Cvma5zv-D2u5PHk-pxDfnA.png\"></div>",
+                ""
+            ],
+            "guid": "b&/y7[Kc%L",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "RØD KNOGLEMARV.<br>Farvning: May-Grünwald- Giemsa.<br>- Fedtceller<br>- Megakaryocyt<br>- Hæmopoletisk væv<br>- Eythrocytter",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-XlVgjy.eGuN3IpJX1zJrsw.png\"></div>",
+                ""
+            ],
+            "guid": "l}:(UC*s&8",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GUL KNOGLEMARV.<br>Farvning: HE (eosin og hæmatoxylin)<br>- Fedtceller<br>- Potentielle hæmopoletiske celler",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-sljji5CKT7xyjqUjHh.Gtg.png\"></div>",
+                ""
+            ],
+            "guid": "BJlAL/+J:}",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GLAT MUSKULATUR. <br>Farvning: HE.<br>- Kerne<br>- Løst bindevæv",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-hL3sRngkKRmEEyxEK9oGqw.png\"></div>",
+                ""
+            ],
+            "guid": "E^14dFig(%",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GLAT MUSKULATUR. <br>Farvning: HE.<br>- Elastiske fibre<br>- Glatte muskelceller<br>- Enlaget pladeepithel",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-WWYGduFMwRWUJ-UsB4pDkA.png\"></div>",
+                ""
+            ],
+            "guid": "qI%LhAB7-j",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SKELETMUSKULATUR.<br>Farvning: HE.<br>- Tværstribning<br>- Muskelfiber<br>- Kerner",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-tgnHrp6b8Ubh7pst4Eu6IQ.png\"></div>",
+                ""
+            ],
+            "guid": "r44QiY[.iP",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TVÆRSKÅRET SKELETMUSKULATUR. Farvning: HE.<br>- Kerner<br>- Muskelfiber<br>- Muskelfascikel",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-b5ILHiKpuijap6iXlAa1Bg.png\"></div>",
+                ""
+            ],
+            "guid": "DgB4PklW::",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TVÆRSKÅRET SKELETMUSKULATUR. <br>Farvning: van Gieson<br>- Muskelfiber<br>- Kerner<br>- Kollagene fibre",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-vY-NZUUZv0SETFWFADwnow.png\"></div>",
+                ""
+            ],
+            "guid": "vYI3?,]DFN",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NERVEVÆV. <br>Farvning: HE<br>- Nerveceller<br>- Gliaceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-F6EaFL6Y0TvX7oGR4B4N.g.png\"></div>",
+                ""
+            ],
+            "guid": "O6b|b#87T7",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NERVEVÆV. <br>Farvning: HE<br>- Satelitceller<br>- Kerne<br> - Bindevæv<br>- Blodkar<br>- Epineuriet (Tæt, uregelmæssigt bindevæv).",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-RB2QP3MMy2I.bwIRHQZ5Ww.png\"></div>",
+                ""
+            ],
+            "guid": "t!B!Psr$fc",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "AXONTERMINALER OG SYNAPSER.<br>Farvning: Bodian<br>- Nervefibre<br>- Nerveceller<br>- Satelitcelle",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-apg-RUMlKhWXiDFvORPbQQ.png\"></div>",
+                ""
+            ],
+            "guid": "o+);9[&S@Y",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PERIFER NERVE.<br>Farvning: HE.<br>- Schwannske cellekerner<br>- Nervefibre",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-FjGK0BWPidLCnCj5j9AyVg.png\"></div>",
+                ""
+            ],
+            "guid": "wZI#Gm.()8",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PERIFER NERVE. <br>Farvning: HE<br>- Schwannsk celle<br>- Axon",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-oYonrHBBJEWllreyMQWa3A.png\"></div>",
+                ""
+            ],
+            "guid": "FEW)NYiC~*",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PERIFER NERVE.<br>Farvning: Osmium-fikseret.<br>- Myelin-skeder<br>- Fedtceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-bPs9fOhDwlh.4bsychzcGQ.png\"></div>",
+                ""
+            ],
+            "guid": "x&z^H=sh[!",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PERIFER NERVE.<br>Farvning: Osmium-fikseret.<br>- Ranviersk indsnøring.<br>- Tværskårne nervefibre.",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-RdIfsnjxTifwr3HaOdsNQw.png\"></div>",
+                ""
+            ],
+            "guid": "KnRt:3<x!.",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BÆGERCELLE<br>Farvning: HE.",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-nLgPtPEuzmfScpkLEFaaXg.png\"></div>",
+                ""
+            ],
+            "guid": "chS;kL*67n",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apoptose",
+                "",
+                "Ved apoptose hos en bægercelle: Skrumper celler, og kernen kondenseres og fragmenteres.",
+                "",
+                "",
+                ""
+            ],
+            "guid": "AHR_S.6@S{",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eosinofil granulocyt.<br>Udgør ca. 1-4 % af de hvide blodceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-1ZZTahgw-JShn8oiXhDzTA.png\"></div>",
+                ""
+            ],
+            "guid": "P0.5YTe*A7",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lymfocyt<br>Udgør ca. 20-40 % af de hvide blodceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-Iwwh3XVLZc2HkjHBOa9jPQ.png\"></div>",
+                ""
+            ],
+            "guid": "hoJl-e{}+C",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Monocyt<br>Udgør ca. 3-10 % af de hvide blodceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-aOD.QrCx7fR3Tlldktllqw.png\"></div>",
+                ""
+            ],
+            "guid": "HGn+.{i<:B",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Neutrofil granulocyt.<br>Udgør ca. 60-70 % af de hvide blodceller",
+                "",
+                "",
+                "",
+                "<div><img src=\"quizlet-YuUw3QeR1BbYVD3r01VXbA.png\"></div>",
+                ""
+            ],
+            "guid": "d&jkCqfSy*",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kerne med mest eukromatin og tydelig nucleolus<br>RER<br>Mitochondrier<br>glykogenkorn",
+                "",
+                "4 ting",
+                "",
+                "<div><img src=\"quizlet-ooi6kj0ftqV1S5DDZkNsSA.png\"></div>",
+                ""
+            ],
+            "guid": "kF@hn{B2{n",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "RER (ru - med ribosomer på) og overgang til SER (glat - uden ribosomer)<br>Mitochondrier<br>Glykogenkorn",
+                "",
+                "3 ting",
+                "",
+                "<div><img src=\"quizlet-1hI2YFXvidgX1vVArsgRTA.png\"></div>",
+                ""
+            ],
+            "guid": "g{9F#s7Z@m",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mitochondrier<br>RER (med ribosomer på)<br>Cellemembraner med cellekontakt (tight junction)",
+                "",
+                "3 ting",
+                "",
+                "<div><img src=\"quizlet-5Dm7dpa7KyqSTkETP8KdCg.png\"></div>",
+                ""
+            ],
+            "guid": "N{N,>cVr-g",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "RER<br>Mitochondrier<br>Golgi-kompleks<br>Cellemembran<br>Glykogenkorn",
+                "",
+                "5 ting",
+                "",
+                "<div><img src=\"quizlet-.-NF-aYn0Am59GaXcL2rmg.png\"></div>",
+                ""
+            ],
+            "guid": "A?8@kAA#!^",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kernemembran med kerneporer<br>Heterokromatin og eukromatin i kernen<br>Dele af mitochondrier<br>Endoplasmatoisk reticulum (ER)<br>Glykogenkorn",
+                "",
+                "5 ting",
+                "",
+                "<div><img src=\"quizlet-9SpViWmjzlJD8SRqnGi9Ww.png\"></div>",
+                ""
+            ],
+            "guid": "DN[Uf.Ot5a",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kernemembran med kerneporer<br>Heterokromatin og eukromatin i kernen<br>Endoplasmatisk reticulum (ER)<br>Glykogenkorn",
+                "",
+                "4 ting",
+                "",
+                "<div><img src=\"quizlet-K2y-OQ8BYTPeORMFvD6vsg.png\"></div>",
+                ""
+            ],
+            "guid": "t^H%z$t/:P",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exokrin pancreas celle.<br>Kerner<br>Sekretvesikler<br>Cellemembraner<br>Endoplasmatisk reticulum",
+                "",
+                "4 ting",
+                "",
+                "<div><img src=\"quizlet-DbIn53Zepx1ZFYaFM0oR4g.png\"></div>",
+                ""
+            ],
+            "guid": "Jp=evT1w11",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exokrin pancreas celle.<br>Sekretvesikler<br>Endoplasmatisk reticulum",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-j1MMs5-XVxZc-f8DQRQf3Q.png\"></div>",
+                ""
+            ],
+            "guid": "dC[a~G=KDN",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Human nyretublus.<br>Kerne<br>Mitochondrier (M)<br>Cellemembran",
+                "",
+                "3 ting",
+                "",
+                "<div><img src=\"quizlet-Tb8UBYCO-eQYLHD8Ot.yLw.png\"></div>",
+                ""
+            ],
+            "guid": "qz])G%?lH^",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mitochondrie",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-xltuBAYZcCDhWzBdbrU0XQ.png\"></div>",
+                ""
+            ],
+            "guid": "3.M65YJQ2",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Celleorganeller<br>Golgiapparat<br>Ru Endoplasmatisk Retikulum",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-5sPY6LYOA9msbFoYUAX81g.png\"></div>",
+                ""
+            ],
+            "guid": "zk-@Y6Hh]r",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ru Endoplasmatisk Reticulum<br> Glykogen korn<br>N - nucleus (kerne)<br>M - mitochondrie",
+                "",
+                "3 ting",
+                "",
+                "<div><img src=\"quizlet-gc8UG2daezNA8z37lhVl5g.png\"></div>",
+                ""
+            ],
+            "guid": "juB*wb|_2c",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ru Endoplasmatisk Retikulum<br> Glykogenkorn",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-7YMY8eRJ5mVHiO-WwDvkvA.png\"></div>",
+                ""
+            ],
+            "guid": "bkpqCA+:@-",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1) Kernemembran<br>2) Golgi kompleks<br>3) centriole (tværsnit) - centriole par har delt sig (der ses 2 par) <br>4) mitochondrie",
+                "",
+                "4 ting",
+                "",
+                "<div><img src=\"quizlet-urdRxgpQsz.FvRfBhFiQ3Q.png\"></div>",
+                ""
+            ],
+            "guid": "FpAaoeW{.}",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pinocytosevesikler",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-qC2908lM4eWD1JOCrxkgpg.png\"></div>",
+                ""
+            ],
+            "guid": "mt5Qw.(p(#",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Centriole (tværsnit - der ses også en centriole i længdesnit)",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-A7czFryWu9H12AeIF3v4vQ.png\"></div>",
+                ""
+            ],
+            "guid": "Ec$3`Uok*p",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kontakt kompleks<br> tight junction<br> intermediate junction<br> desmosome",
+                "",
+                "3 ting",
+                "",
+                "<div><img src=\"quizlet-ZoLcIsnJpPqccoA3oroCjQ.png\"></div>",
+                ""
+            ],
+            "guid": "m5Q&i^.i<i",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Freeze-fracture replica af enlaget cylinderepithel med mikrovilli (børstesøm)<br>1 mikrovilli<br>2 tight junction",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-UnIOskQQbgsr1254wE5DXA.png\"></div>",
+                ""
+            ],
+            "guid": "r!qAVg0[tJ",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gap junction<br> Tight junction",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-3zzhzUpJEIcUU3CLCBE43g.png\"></div>",
+                ""
+            ],
+            "guid": "x8-9Qz^6!~",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mikrovilli dækket af surface coat",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-l6rD1ojCSoxAamp-vmKYNA.png\"></div>",
+                ""
+            ],
+            "guid": "bk^K^?;8bs",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bægercelle",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-qTmQock1LOb3GAQkk.jcpw.png\"></div>",
+                ""
+            ],
+            "guid": "j!v6GCl^3I",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kollagene fibriller<br>længde- og tværskårne (pilene markerer de længdeskårne)",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-4HmMW9Z-sBVLJXNiFA9FVw.png\"></div>",
+                ""
+            ],
+            "guid": "Hu3~?7B0r,",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kollagene fibriller",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-WpxbSqd7DT.L46Gr3VtAdA.png\"></div>",
+                ""
+            ],
+            "guid": "w0N,]y]03>",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Skeletmuskulatur - længdeskåret",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-oHyy.x-g1yJ4XjJpWXhNqg.png\"></div>",
+                ""
+            ],
+            "guid": "nS6OC:^$cD",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tværstribet muskulatur (skelet)<br>a: z-skive<br>b: I-bånd (isotrop lysbrydning)<br>c: A-bånd (anisotrop lysbrydning)<br>d: H-bånd m. M-skive",
+                "",
+                "4 ting",
+                "",
+                "<div><img src=\"quizlet-E.SbRTNtkF7yJuWLFbOUnQ.png\"></div>",
+                ""
+            ],
+            "guid": "Ixfow/=<M9",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Skeletmuskulatur -tværskåret (i A-båndet)",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-esapzv.LcRwAvCr2uN79Ow.png\"></div>",
+                ""
+            ],
+            "guid": "o1/:]nL++:",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hjertemuskulatur med indskudsskiver (Ebnersk kitlinier)",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-h6p0SM13XSG-OGBeX5iazA.png\"></div>",
+                ""
+            ],
+            "guid": "Jrt*VnBD^*",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hjertemuskulatur, længdeskåret med indskudsskiver (Ebnerske kitlinier)",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-c3-nT4VjcG2HGA1tn59kyQ.png\"></div>",
+                ""
+            ],
+            "guid": "yHUGX8i*3a",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hjertemuskulatur med indskudsskive (Ebnsersk kitlinie)",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-waJDM4MZDEygohJjWkSfHg.png\"></div>",
+                ""
+            ],
+            "guid": "O;<jCXvcUv",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Neutrofil granulocyt",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-wCi8nI.8cFVN-vOHbLSu2Q.png\"></div>",
+                ""
+            ],
+            "guid": "CD`k=,8Mvv",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eosinofil granulocyt",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-apb8IeTS7HeiqABcYn2BxA.png\"></div>",
+                ""
+            ],
+            "guid": "x}}^2Ki,&F",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mastcelle",
+                "",
+                "1 ting",
+                "",
+                "<div><img src=\"quizlet-yJRujm7IzStCIZGfPB8gyA.png\"></div>",
+                ""
+            ],
+            "guid": "xb(_{{khM2",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Myelinerede nervefibre og Schmidt-Lantermansk incisur (pil)",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-aMG-CGuaMSvctM2X1j4T8g.png\"></div>",
+                ""
+            ],
+            "guid": "N+cj0xSdQ.",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Myelineret nervefiber<br> Schwannsk cellekerne<br> mesaxon",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-GaIndDp53N6qn45WnAM9LA.png\"></div>",
+                ""
+            ],
+            "guid": "PCf[l>;MV]",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Myelinerede nervefibre med Ranviersk indsnøring",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-Lmr6Yhe0QocDmYcpbZg9Mg.png\"></div>",
+                ""
+            ],
+            "guid": "qnY|a6YtEA",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Umyelineret nerve<br> Axon<br> Schwannsk cellekerne",
+                "",
+                "2 ting",
+                "",
+                "<div><img src=\"quizlet-iwDAUK-ZGlZccWoa06IqKg.png\"></div>",
+                ""
+            ],
+            "guid": "ytM$-V^`Mc",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Endoplasmatisk reticulum (ER)",
+                "",
+                "- System af membranbegrænsede hulrum forbundet med kernemembranen.<br>- Syntese af lipider (SER) og proteiner (RER) til membraner og til export.",
+                "",
+                "",
+                ""
+            ],
+            "guid": "cuAE+GZ@[Y",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Golgi-apparat",
+                "",
+                "- En stak cisterner med transportvesikler<br>- Modtager og modificerer proteiner og lipider fra ER, sortering og pakning i vesikler til export og andre organeller",
+                "",
+                "",
+                ""
+            ],
+            "guid": "PMBX9g{Y",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lysosomer",
+                "",
+                "Afrundede vesikler med fordøjelsesenzymer, diameter ca. 0,5 µM, smelter sammen med endosomer",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f@*Y|yx=@C",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peroxisomer",
+                "",
+                "Afrundede vesikler med enzymer som oxiderer frie radikaler (hydrogen peroxide), diameter ca. 0,5 µM",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fp=9^ubh7v",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cytosol",
+                "",
+                "Cytoplasma uden membranbegrænsede organeller<br>Mange metaboliske processer, protein syntese",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n@C|KHYj{~",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nucleus",
+                "",
+                "Indeholder kromosomerne (DNA molekylerne + histonprotein), DNA og RNA syntese",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oB>pyYMi_.",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nucleolemma",
+                "",
+                "En dobbeltmembran med porekomplekser. Afgrænser nucleus fra cytoplasma.",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G840Vq$-Vo",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mitochondrier",
+                "",
+                "- Pølselignende strukturer, diameter ca. 1 µM, længde op til 10 µM<br>- Dobbeltmembran med crista<br>- Energiproduktion: ATP syntese ved oxidativ fosforylering (mitochondrier bruger O2)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l-nB+-SmtG",
+            "note_model_uuid": "98d08aae-0e26-11eb-a28b-acbc32a46275",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cff90287963b4a22ab6f2353520dc119-ao-1",
+                "Angiv farvning",
+                "<img src=\"paste-f62065e7a831a720c9f403f806f997a2ff2fb466.jpg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-1-A.svg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-O.svg\" />"
+            ],
+            "guid": "ndJ)Z]tWP3",
+            "note_model_uuid": "98d47b1e-0e26-11eb-a28b-acbc32a46275",
+            "tags": [
+                "Bindevæv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cff90287963b4a22ab6f2353520dc119-ao-2",
+                "Angiv farvning",
+                "<img src=\"paste-f62065e7a831a720c9f403f806f997a2ff2fb466.jpg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-2-A.svg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-O.svg\" />"
+            ],
+            "guid": "uCu>tM>Xyg",
+            "note_model_uuid": "98d47b1e-0e26-11eb-a28b-acbc32a46275",
+            "tags": [
+                "Bindevæv"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cff90287963b4a22ab6f2353520dc119-ao-3",
+                "Angiv farvning",
+                "<img src=\"paste-f62065e7a831a720c9f403f806f997a2ff2fb466.jpg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-3-A.svg\" />",
+                "<img src=\"cff90287963b4a22ab6f2353520dc119-ao-O.svg\" />"
+            ],
+            "guid": "P<Qi1]|TrF",
+            "note_model_uuid": "98d47b1e-0e26-11eb-a28b-acbc32a46275",
+            "tags": [
+                "Bindevæv"
+            ]
+        }
+    ]
+}
