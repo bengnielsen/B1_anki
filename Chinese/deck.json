@@ -1,0 +1,684 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "f3f209b0-0e23-11eb-b9fa-acbc32a46275",
+            "deck_config_uuid": "f3f20f46-0e23-11eb-b9fa-acbc32a46275",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "mid": "1495445130484",
+            "name": "Chinese vocab",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "原",
+                        "yuan2&nbsp;"
+                    ],
+                    "guid": "tA#ju@X`<6",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "病毒",
+                        "bing1du2 - virus"
+                    ],
+                    "guid": "ke]Vj?+%JO",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "帮助",
+                        "bang1zhu4 - help"
+                    ],
+                    "guid": "y5d%GL706#",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "蚊帐&nbsp;",
+                        "net muỗi &nbsp;---&nbsp;Wénzhàng"
+                    ],
+                    "guid": "I7<AXdhxqr",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "了解 (liao3jie3)",
+                        "Understand"
+                    ],
+                    "guid": "BRg1lPQ1nr",
+                    "note_model_uuid": "f3f38128-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "何处开始 (he2chu4kai1shi3)",
+                        "Where to start"
+                    ],
+                    "guid": "CMcXjlTz)2",
+                    "note_model_uuid": "f3f38128-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "免费 (mian3fei1)",
+                        "Free / gratis"
+                    ],
+                    "guid": "cK8W9wyzsP",
+                    "note_model_uuid": "f3f38128-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "f3f3e4a6-0e23-11eb-b9fa-acbc32a46275",
+            "deck_config_uuid": "f3f3ea14-0e23-11eb-b9fa-acbc32a46275",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Chinese_cycling",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(骑)长途",
+                        "qí chángtú - ride; đi xe đường dài"
+                    ],
+                    "guid": "c084]URvZ+",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bicycle",
+                        "自行车<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>zìxíng chē"
+                    ],
+                    "guid": "]2q?4Jf^(",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<table style=\"font-family: Times; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 220); text-decoration-style: initial; text-decoration-color: initial;\"><tbody><tr><td>自行车</td><td>zìxíng chē</td></tr></tbody></table>",
+                        "Bicycle"
+                    ],
+                    "guid": "o4P#@)Ltj/",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mechanic",
+                        "修车<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>xiū chē"
+                    ],
+                    "guid": "fQGMBMFee[",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "修车<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>xiū chē",
+                        "Mechanic"
+                    ],
+                    "guid": "s|PE{(#u34",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Frame",
+                        "车架<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>chē jià"
+                    ],
+                    "guid": "OVDHhz<vK4",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "车架<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>chē jià",
+                        "Frame"
+                    ],
+                    "guid": "Hak#-2h#bo",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Components",
+                        "配件<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>pèijiàn"
+                    ],
+                    "guid": "L|.bo;ty]`",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "配件<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>pèijiàn",
+                        "Components"
+                    ],
+                    "guid": "q9d>:UX%sI",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Not Compatible",
+                        "不合适<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>bù héshì"
+                    ],
+                    "guid": "CvSx_^M,27",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "不合适<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>bù héshì",
+                        "Not Compatible"
+                    ],
+                    "guid": "wZ![3>@s]q",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wheel",
+                        "轮子<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>lúnzi"
+                    ],
+                    "guid": "dolKi`j%N",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "轮子<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>lúnzi",
+                        "Wheel"
+                    ],
+                    "guid": "mK8i_^+40j",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Spoke",
+                        "(一根)辐条<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>yīgēn fútiáo"
+                    ],
+                    "guid": "bxv@Hle/q#",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tire",
+                        "外胎<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>wàitāi"
+                    ],
+                    "guid": "JyX%sRUphf",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "外胎<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>wàitāi",
+                        "Tire"
+                    ],
+                    "guid": "lW6Lu2gk~s",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "inner tube",
+                        "内胎<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>nèitāi"
+                    ],
+                    "guid": "AUbf9Wyoo5",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "内胎<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>nèitāi",
+                        "Inner tube"
+                    ],
+                    "guid": "Mg&.|UarH=",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "rim<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+                        "轮圈<span class=\"Apple-tab-span\" style=\"white-space: pre\"> </span>lúnquān"
+                    ],
+                    "guid": "j0fl}b{OTO",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "轮圈<span class=\"Apple-tab-span\" style=\"white-space: pre\"> </span>lúnquān",
+                        "rim"
+                    ],
+                    "guid": "j_YqnWkRN)",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gear Sprocket<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+                        "变速单片 &nbsp;biànsù dānpiān"
+                    ],
+                    "guid": "N<I_t@m3n^",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gears",
+                        "变速<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>biànsù"
+                    ],
+                    "guid": "x_tCB6pnOW",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "变速<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>biànsù",
+                        "Gears<div><br /></div>"
+                    ],
+                    "guid": "A8P~;Y4v#E",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>Disc brakes",
+                        "碟刹 &nbsp;Dié shā"
+                    ],
+                    "guid": "H?%w[o>_vV",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "碟刹",
+                        "Disc brakes<div><br /></div>"
+                    ],
+                    "guid": "b4%=e/}G_`",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>Brakes",
+                        "刹车"
+                    ],
+                    "guid": "s^[{y]95zI",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Disc Brake Pads<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span><span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+                        "碟刹垫"
+                    ],
+                    "guid": "t^4PB=XNZX",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "碟刹垫",
+                        "Disc Brake Pads"
+                    ],
+                    "guid": "tt=93Qdc}U",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How much time will it take?<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+                        "要多长时间？"
+                    ],
+                    "guid": "mI0%.chQr3",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>Raincoat<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+                        "雨衣"
+                    ],
+                    "guid": "r|,u#n*e-i",
+                    "note_model_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "f3f0bcc2-0e23-11eb-b9fa-acbc32a46275",
+    "deck_config_uuid": "f3f11316-0e23-11eb-b9fa-acbc32a46275",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f3f11316-0e23-11eb-b9fa-acbc32a46275",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 3000,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f3f20f46-0e23-11eb-b9fa-acbc32a46275",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 3000,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f3f3ea14-0e23-11eb-b9fa-acbc32a46275",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 3000,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Chinese",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f3f337ae-0e23-11eb-b9fa-acbc32a46275",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-58ed0",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Blodceller"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<div style='font-family: Arial; font-size: 20px;'>{{Front}}</div>\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f3f38128-0e23-11eb-b9fa-acbc32a46275",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Blodceller"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
